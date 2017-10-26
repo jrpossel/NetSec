@@ -24,11 +24,10 @@ Address:    172.16.0.18#53`
       - [X]  `telnet` `codepath.com`
         -  `telnet codepath.com` returns the following: 
         ```
-Trying 198.58.125.217...
-telnet: connect to address 198.58.125.217: Connection refused
-telnet: Unable to connect to remote host
+        Trying 198.58.125.217...
+        telnet: connect to address 198.58.125.217: Connection refused
+        telnet: Unable to connect to remote host
         ```
-
 
     - [ ]  `curl` Challenges
       -

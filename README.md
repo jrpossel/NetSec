@@ -39,9 +39,9 @@ Address:    172.16.0.18#53`
 1. [X]  Required: Milestone 3 - Hello, Wireshark
     - [X]  Challenge
 
-1. [ ]  Required: Milestone 4 - Traffic Analysis - Mike's Computer is Acting Weird
+1. [X]  Required: Milestone 4 - Traffic Analysis - Mike's Computer is Acting Weird
 
-1. [ ]  Required: Milestone 5 - Traffic Analysis - Mystery Meat Malware
+1. [X]  Required: Milestone 5 - Traffic Analysis - Mystery Meat Malware
 
 1. [ ]  Required: Milestone 6 - Wi-Fi Hacking - Crack a Handshake
     - [ ]  Challenge

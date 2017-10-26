@@ -3,34 +3,34 @@ Time spent: **?** hours spent in total
 The following **required** Milestones are completed:
 1. [ ]  Milestone 0 - Networking Toolbox
     - [ ]  `ifconfig` Challenges
-        - [ ]  Primary Network Interface: 
-        - [ ]  IP Address: 
-            - 
-        - [ ]  MAC Address: 
+     - [ ]  Primary Network Interface: 
+     - [ ]  IP Address: 
+      - 
+     - [ ]  MAC Address: 
     - [ ]  `ping` Challenges
-        -  [ ]  `codepath.com` IP Address: 
-        -  [ ]  `google.com` IP Address: 
-            -
+     -  [ ]  `codepath.com` IP Address: 
+     -  [ ]  `google.com` IP Address: 
+      -
     - [ ]  `nslookup` Challenges
-        - [ ]  `nslookup` `codepath.com`:
-            -
+     - [ ]  `nslookup` `codepath.com`:
+      -
     - [ ]  `tracertroute` Challenges
-        - [ ]  traceroutes for `codepath.com`:
-        - [ ]  traceroutes for `google.com`:
-            -
+     - [ ]  traceroutes for `codepath.com`:
+     - [ ]  traceroutes for `google.com`:
+      -
     - [ ]  `telnet` Challenges
-        - 
-        - [ ]  `telnet` `codepath.com`
-            - 
+     - 
+     - [ ]  `telnet` `codepath.com`
+      - 
     - [ ]  `curl` Challenges
-        -
-        -
-        -
-        -
-        -
+     -
+     -
+     -
+     -
+     -
     - [ ]  `ssh` and `scp` Challenges
-        -
-        -
+     -
+     -
     
     
 1. [ ]  Required: Milestone 1 - Security-Flavored Net Tools

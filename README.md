@@ -23,18 +23,6 @@ Address:    172.16.0.18#53`
       -   `telnet` sends data in plaintext and can be easily read using wireshark
       - [X]  `telnet` `codepath.com`
         -  `telnet codepath.com` has a connection refused.
-
-    - [ ]  `curl` Challenges
-      -
-      -
-      -
-      -
-      -
-    - [ ]  `ssh` and `scp` Challenges
-      -
-      -
-    
-    
 1. [ ]  Required: Milestone 1 - Security-Flavored Net Tools
     - [ ]  Challenge 1
     - [ ]  Challenge 2

@@ -1,12 +1,11 @@
 Time spent: **?** hours spent in total 
 ### Challenges / User Stories
 The following **required** Milestones are completed:
-1. [ ]  Milestone 0 - Networking Toolbox
-    - [ ]  `ifconfig` Challenges
-      - [ ]  Primary Network Interface: 
-      - [ ]  IP Address: 
-       - 
-      - [ ]  MAC Address: 
+1. [X]  Milestone 0 - Networking Toolbox
+    - [X]  `ifconfig` Challenges
+      - [X]  Primary Network Interface: en0
+      - [X]  IP Address: 100.64.14.47
+      - [X]  MAC Address: 78:4f:43:5f:f4:93 
 
     - [X]  `ping` Challenges
       -  [x]  `codepath.com` IP Address: `198.58.125.217`
@@ -43,10 +42,10 @@ Address:    172.16.0.18#53`
 
 1. [X]  Required: Milestone 5 - Traffic Analysis - Mystery Meat Malware
 
-1. [ ]  Required: Milestone 6 - Wi-Fi Hacking - Crack a Handshake
-    - [ ]  Challenge
+1. [X]  Required: Milestone 6 - Wi-Fi Hacking - Crack a Handshake
+    - [X]  Challenge
 
-1. [ ]  Required: Milestone 7 - Wi-Fi Hacking - Grab a Handshake
+1. [X]  Required: Milestone 7 - Wi-Fi Hacking - Grab a Handshake
 
 
 The following **Bonus** Milestones are completed:

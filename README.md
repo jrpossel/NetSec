@@ -1,4 +1,4 @@
-Time spent: **3** hours spent in total 
+Time spent: **10** hours spent in total 
 ### Challenges / User Stories
 The following **required** Milestones are completed:
 1. [X]  Milestone 0 - Networking Toolbox
